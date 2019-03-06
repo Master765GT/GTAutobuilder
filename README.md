@@ -1,2 +1,3 @@
 # GTAutobuilder
-Shows you how to compile a GT save.dat autobuilder
+Hi! My name is Master765, I like to code.
+And in this repository I'll show you how to create a GT autobuilder.
